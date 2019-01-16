@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sigit</groupId>
-	<artifactId>taxcalculator</artifactId>
+	<artifactId>spring-boot-tax-calculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Tax Calculator</name>
 	<description>Tax Calculator for BE Test</description>
